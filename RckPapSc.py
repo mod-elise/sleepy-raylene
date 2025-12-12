@@ -33,7 +33,7 @@ while True:
     user_wins += 1
     
   else:
-    print("You lose QQ4U ")
+    print("You lose")
     computer_wins += 1
     
 print("You won " + str(user_wins) + ".")
